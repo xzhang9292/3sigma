@@ -1,21 +1,33 @@
 import requests
 import json
+import datetime
 
 company = "microsoft"
-page = 1
+fromDate = datetime.datetime.today() - datetime.timedelta(days = 27)
 
-while page <= 169:
-	url = ('https://newsapi.org/v2/everything?'
-			'q=' + company + '&'
-			'from=2019-02-10&to=2019-03-10&language=en&sortBy=popularity&'
-			'pageSize=100&page=' + str(page) + '&'
-	       	'apiKey=EnterYourAPIKeyHere')
+while fromDate <= datetime.datetime.today():
+	page = 1
+	maxPage = 9223372036854775807
+	strFromDate = fromDate.strftime("%Y-%m-%d")
 
-	response = requests.get(url)
-	data = response.json()
+	while page <= maxPage:
+		url = ('https://newsapi.org/v2/everything?'
+				'q=' + company + '&'
+				'from=' + strFromDate + '&to=' + strFromDate + '&language=en&sortBy=popularity&'
+				'pageSize=100&page=' + str(page) + '&'
+		       	'apiKey=EnterYourAPIKeyHere')
 
-	with open(company + '.json', 'a') as f:
-		json.dump(data, f)
-		f.write("\n")
+		response = requests.get(url)
+		data = response.json()
+		if page == 1:
+			data2 = json.dumps(data)
+			res = json.loads(data2)
+			maxPage = int(res['totalResults']) / 100 + 1
 
-	page += 1
+		with open(company + '.json', 'a') as f:
+			json.dump(data, f)
+			f.write("\n")
+
+		page += 1
+
+	fromDate = fromDate + datetime.timedelta(days = 1)
