@@ -22,7 +22,12 @@ while fromDate <= datetime.datetime.today():
 		if page == 1:
 			data2 = json.dumps(data)
 			res = json.loads(data2)
-			maxPage = int(res['totalResults']) / 100 + 1
+			totalResults = int(res['totalResults'])
+			maxPage = totalResults / 100
+			if totalResults % 100 != 0:
+				maxPage = maxPage + 1
+			if maxPage > 10:
+				maxPage = 10
 
 		with open(company + '.json', 'a') as f:
 			json.dump(data, f)
