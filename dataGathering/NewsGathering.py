@@ -2,7 +2,7 @@ import requests
 import json
 import datetime
 
-company = "microsoft"
+company = "boeing"
 fromDate = datetime.datetime.today() - datetime.timedelta(days = 27)
 
 while fromDate <= datetime.datetime.today():
@@ -30,7 +30,7 @@ while fromDate <= datetime.datetime.today():
 				maxPage = 10
 
 		with open(company + '.json', 'a') as f:
-			json.dump(data, f)
+			json.dump(data['articles'], f)
 			f.write("\n")
 
 		page += 1
