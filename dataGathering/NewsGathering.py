@@ -2,7 +2,8 @@ import requests
 import json
 import datetime
 
-company = "boeing"
+# still need to do mcdonald's, cisco, verizon, and fedex
+company = "cisco"
 fromDate = datetime.datetime.today() - datetime.timedelta(days = 27) # past month (past 27 days)
 
 while fromDate <= datetime.datetime.today():
