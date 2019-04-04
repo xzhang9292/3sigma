@@ -1,9 +1,10 @@
 import requests
 import json
 import datetime
-
-company = "mcdonald's"
-fromDate = datetime.datetime.today() - datetime.timedelta(days = 27) # past month (past 27 days)
+#300 44 664 1072 498 55 252 148 229 2492
+#5754
+company = "boeing"
+fromDate = datetime.datetime.today() - datetime.timedelta(days = 31) # past month (past 31 days)
 
 while fromDate <= datetime.datetime.today():
 	page = 1
@@ -12,7 +13,9 @@ while fromDate <= datetime.datetime.today():
 
 	while page <= maxPage:
 		url = ('https://newsapi.org/v2/everything?'
-				'q=' + company + '&'
+				'q=' + company + 
+				'&sources=abc-news,associated-press,bbc-news,bleacher-report,bloomberg,business-insider,cbs-news,cnbc,cnn,daily-mail,espn,financial-times,fortune,four-four-two,fox-news,fox-sports,google-news,hacker-news,msnbc,nbc-news,reuters,techcrunch,techradar,the-economist,the-huffington-post,the-new-york-times,the-telegraph,the-wall-street-journal,the-washington-post,time,usa-today&'
+				'domains=seekingalpha.com&'
 				'from=' + strFromDate + '&to=' + strFromDate + '&language=en&sortBy=popularity&'
 				'pageSize=100&page=' + str(page) + '&'
 		       	'apiKey=EnterYourAPIKeyHere')
@@ -31,9 +34,10 @@ while fromDate <= datetime.datetime.today():
 				maxPage = 10
 
 		# write to json file
-		with open(company + '.json', 'a') as f:
-			json.dump(data['articles'], f)
-			f.write("\n")
+		with open(company + '_sources.json', 'a') as f:
+			if 'articles' in data: # might have changed the max number of pages we can get for free
+				json.dump(data['articles'], f)
+				f.write("\n")
 
 		# go to the next page
 		page += 1
