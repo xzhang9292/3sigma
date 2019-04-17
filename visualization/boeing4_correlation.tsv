@@ -1,0 +1,561 @@
+Date	Headline	Stock Difference	True Label	Predicted Label	Correlation
+3/26/2019	After Boeing Crashes, Sharp Questions About Industry Regulating Itself	-5.2	0	0	0.800510064531605
+3/26/2019	Southwest Boeing 737 Max Makes Emergency Landing After Engine Trouble	-5.2	0	0	0.7641082953988955
+3/26/2019	In test of Boeing Jet, pilots had 40 seconds to fix error	-5.2	0	0	0.7722427537433882
+3/26/2019	Explainer - Boeing 737 MAX: What to expect at Capitol Hill, Boeing meetings	-5.2	0	0	0.6404577529843007
+3/26/2019	China not taking Boeing 737 Max 8 airworthiness certificate applications	-5.2	0	0	0.6578694327315803
+3/26/2019	Ethiopian crash report likely to be released this week as Boeing briefs airlines	-5.2	0	0	0.6506312085909629
+3/26/2019	A Boeing 737 Max 8 declared an emergency landing after an engine problem - CNN	-5.2	0	0	0.46894166646012975
+3/26/2019	Boeing 737 Max 8 makes emergency landing in Orlando	-5.2	0	0	0.8863786899456264
+3/26/2019	Explainer - Boeing 737 MAX: What to expect at Capitol Hill, Boeing meetings	-5.2	0	0	0.6404577529843007
+3/26/2019	Factbox: What we know about Boeing 737 MAX crash and what comes next	-5.2	0	0	0.6218828575792114
+3/26/2019	Exclusive: FAA says oversight needs to 'evolve' after Boeing crashes	-5.2	0	1	-0.6668639794531472
+3/26/2019	Boeing 737 MAX software fix: easy to upload, harder to approve	-5.2	0	0	0.727236452852205
+3/26/2019	Southwest 737 MAX 8 passenger-less flight lands safely after declaring emergency: FAA	-5.2	0	0	0.6727618608169519
+3/26/2019	Exclusive: U.S. FAA to overhaul oversight approach to air safety by July	-5.2	0	1	-0.717758175937207
+3/26/2019	Airbus shares rally after large Chinese order	-5.2	0	0	0.8122882420041685
+3/26/2019	Futures edge higher after two sessions of declines	-5.2	0	1	-0.716799257585848
+3/26/2019	Will success of historic London-Perth route help usher in an era of ultra long-haul flying?	-5.2	0	1	-0.7805459629627922
+3/26/2019	Boeing had submitted software fix before Ethiopia crash	-5.2	0	0	0.7700382520598226
+3/26/2019	Airbus secures multi-billion dollar jet order from China	-5.2	0	1	-0.6815743317633599
+3/26/2019	Airlines keeping safety training 'to an absolute minimum'	-5.2	0	0	0.8015554827009996
+3/26/2019	A Boeing 737 Max makes emergency landing at Orlando airport	-5.2	0	0	0.7509294475681197
+3/26/2019	Southwest Boeing 737 Max 8 had engine emergency	-5.2	0	0	0.8143042002095421
+3/26/2019	Southwest Boeing 737 Max 8 makes emergency landing	-5.2	0	0	0.8863786899456264
+3/26/2019	Buy Boeing Shares as Risks Are Already Priced In, Baird Says - Bloomberg	-5.2	0	1	-0.5649704924139264
+3/26/2019	Giuliani demands CNN apologize for Trump-Russia coverage; Avenatti suggests arrest is politically-motivated - Fox News	-5.2	0	1	-0.36233789069860833
+3/26/2019	Pilots had 40 SECONDS to over-ride automated system in Lion Air and Ethiopian Airlines crashes	-5.2	0	0	0.5892053866467054
+3/26/2019	Top senator says US faces 'too many threats' to have an acting defense secretary	-5.2	0	0	0.6988976812580944
+3/26/2019	A Southwest Airlines Boeing 737 Max just made an emergency landing in Florida (LUV, BA)	-5.2	0	0	0.6301303733187791
+3/26/2019	China signs $34 billion order for 300 Airbus planes as country suspends licenses for Boeing 737 Max aircraft after deadly crashes (BA, AIRBUS)	-5.2	0	1	-0.0
+3/26/2019	Lion Air crash: Boeing pilots had '40 seconds to fix error' in simulation of deadly flight	-5.2	0	0	0.5448846566486442
+3/26/2019	Boeing is in crisis, but it is doing just fine in its race with Airbus	-5.2	0	1	-0.6173851039715936
+3/26/2019	How the FAA must step up to protect Americans	-5.2	0	1	-0.8862576247251476
+3/26/2019	Changes coming at FAA after crashes, watchdog says	-5.2	0	1	-0.6450218386964062
+3/26/2019	NYT: Pilots had 40 seconds to avert disaster in test of Boeing 737 Max plane	-5.2	0	0	0.7015266579751149
+3/26/2019	What's moving markets today	-5.2	0	1	-1.0
+3/26/2019	Southwest Boeing 737 Max 8 plane makes emergency landing due to reported engine problem - Fox News	-5.2	0	0	0.6671763906606191
+3/26/2019	Boeing Fires Employee Responsible for Hanging a Noose in a South Carolina Factory	-5.2	0	1	-0.6268754423126737
+3/26/2019	In a New Blow to Boeing, Rival Airbus Sells 300 Planes to China	-5.2	0	1	-0.7060925082967259
+3/26/2019	U.S. Astronauts Will Be Back on the Moon by 2024, Vice President Pence Said	-5.2	0	1	-0.6668035876879399
+3/26/2019	Boeing 737 MAX jet makes emergency landing in Orlando	-5.2	0	0	0.8863786899456264
+3/26/2019	Baird: Buy Boeing as risks are priced in	-5.2	0	1	-0.7087685440733505
+3/26/2019	FAA head to say oversight needs to 'evolve' after Boeing crashes - Reuters	-5.2	0	0	0.7409185613967079
+3/26/2019	Airbus wins major China order for 300 jets	-5.2	0	1	-0.7711160163869197
+3/26/2019	EXPLAINER-Boeing 737 MAX: What to expect at Capitol Hill, Boeing meetings	-5.2	0	0	0.6404577529843007
+3/26/2019	China not taking Boeing 737 Max 8 airworthiness certificate applications	-5.2	0	0	0.6578694327315803
+3/26/2019	UPDATE 1-China not taking Boeing 737 MAX 8 airworthiness certificate applications	-5.2	0	0	0.6578694327315803
+3/26/2019	Lufthansa plans to buy either Boeing 737 MAX or Airbus A320neo	-5.2	0	1	-0.6558223859214493
+3/26/2019	RPT-UPDATE 2-Boeing fix will prevent repeated activation of anti-stall system -sources	-5.2	0	0	0.7831035483656007
+3/26/2019	PRESS DIGEST- Wall Street Journal - March 26	-5.2	0	1	-0.8661348090964779
+3/26/2019	Crash probe brings more scrutiny of Boeing, FAA	-5.2	0	0	0.7980264994949667
+3/26/2019	Boeing 737 MAX forced to make emergency landing	-5.2	0	0	0.8012823480597795
+3/26/2019	Ethiopian official: Preliminary report on Boeing 737 MAX 8 crash due out this week	-5.2	0	0	0.7834437299471797
+3/26/2019	After-hours buzz: KB Home, Bed Bath & Beyond, Boeing & more	-5.2	0	1	-0.6074522432156917
+3/26/2019	China not taking Boeing 737 MAX 8 airworthiness certificate applications	-5.2	0	0	0.6578694327315803
+3/26/2019	Exclusive: FAA says oversight needs to 'evolve' after Boeing crashes	-5.2	0	1	-0.6668639794531472
+3/26/2019	Lufthansa plans to buy either Boeing 737 MAX or Airbus A320neo	-5.2	0	1	-0.6558223859214493
+3/26/2019	Southwest 737 Max makes emergency landing in Orlando	-5.2	0	0	0.914010305507337
+3/26/2019	The Daily 202: Trump’s response to the Mueller report foreshadows bitter 2020 battles	-5.2	0	1	-0.5610919259255847
+3/26/2019	Airbus wins China order for 300 jets as Xi Jinping visits France	-5.2	0	1	-0.6423458029197813
+3/26/2019	Raytheon Is A Decent Addition To Your Dividend Growth Portfolio	-5.2	0	1	-0.7880598820589352
+3/26/2019	Selling Or Holding Boeing Depends More On The Economy Than The Grounding	-5.2	0	1	-0.8149970002520601
+3/26/2019	Southwest Boeing 737 Max reportedly made an emergency landing at Orlando International Airport	-5.2	0	0	0.6860394858936495
+3/26/2019	Key senator urges White House to fill top Pentagon post	-5.2	0	1	-0.9243440146222166
+3/26/2019	Boeing CEO says company is 'humbled and learning' from deadly Ethiopian Airlines crash	-5.2	0	0	0.5132741282815811
+3/26/2019	Norwegian Air temporarily suspends some NY ticket sales	-5.2	0	1	-0.9503379039232959
+3/26/2019	Ethiopian official says plane crash report due this week	-5.2	0	0	0.8444558766461548
+3/26/2019	Southwest Boeing 737 Max jet makes emergency landing	-5.2	0	0	0.8863786899456264
+3/26/2019	The Best Dividend Stocks To Buy Ahead Of The Coming Bear Market	-5.2	0	1	-0.6061754405024421
+3/26/2019	Boeing employee who 'hung a noose' at a South Carolina plant is fired after month-long investigation	-5.2	0	0	0.6213365316603109
+3/26/2019	Southwest 737 Max makes emergency landing in Orlando	-5.2	0	0	0.914010305507337
+3/26/2019	Chairman of India's troubled Jet Airways resigns	-5.2	0	1	-0.848688029244433
+3/26/2019	Boeing readies 737 MAX software fix as families wait for crash report	-5.2	0	0	0.6680514683567153
+3/26/2019	Lawmakers Scrutinize Timeline for Boeing 737 MAX Software Fix	-5.2	0	0	0.8401407663552714
+3/26/2019	Southwest 737 MAX Makes Emergency Landing in Orlando, Fla.	-5.2	0	0	0.8289139636214897
+3/26/2019	In Test of Boeing Jet, Pilots Had 40 Seconds to Fix Error	-5.2	0	0	0.7722427537433882
+3/26/2019	Boeing 737 MAX software fix: easy to upload, harder to approve	-5.2	0	0	0.727236452852205
+3/26/2019	Ethiopian crash report likely to be released this week as Boeing briefs airlines	-5.2	0	0	0.6506312085909629
+3/26/2019	Ethiopian crash report likely to be released this week as Boeing briefs airlines	-5.2	0	0	0.6506312085909629
+3/26/2019	Ethiopian crash report likely to be released this week as Boeing briefs airlines	-5.2	0	0	0.6506312085909629
+3/26/2019	Southwest 737 MAX 8 passenger-less flight lands safely after declaring emergency: FAA	-5.2	0	0	0.6727618608169519
+3/26/2019	Airbus shares rally after large Chinese order	-5.2	0	0	0.8122882420041685
+3/26/2019	NASA and the White House want billions so companies will compete to build human moon landers	-5.2	0	1	-0.6486571913042072
+3/28/2019	Brexit, Boeing, China: Your Thursday Briefing	-2.16	0	1	-0.7817484936745093
+3/28/2019	Your Thursday Briefing	-2.16	0	0	0.9313354060499403
+3/28/2019	Bad Times in Trumpville	-2.16	0	1	-0.9243440146222166
+3/28/2019	Business this week	-2.16	0	1	-0.9393718528145023
+3/28/2019	WATCH: Speeding semi-truck slams into school bus	-2.16	0	1	-0.9243440146222166
+3/28/2019	Boeing 737 Max: Don't rush into criminal case and don't make safety a political football	-2.16	0	1	-0.5064868344108193
+3/28/2019	FAA: We don’t allow companies to police themselves	-2.16	0	1	-0.7424595730657233
+3/28/2019	Airliners, E-Cigs Dent America's Self-Regulating Credibility	-2.16	0	1	-0.6292339922072252
+3/28/2019	Boeing Sued Over Ethiopia Crash as Legal, Political Woes Deepen	-2.16	0	0	0.7364204706715425
+3/28/2019	Boeing Faces Capitol’s Glare as It Presses to Fix the 737 Max	-2.16	0	0	0.6113287622025213
+3/28/2019	Some Presidents Felt Trapped in the White House Bubble. Trump Thrives in It.	-2.16	0	1	-0.848688029244433
+3/28/2019	Boeing Faces Capitol’s Glare as It Presses to Fix the 737 Max	-2.16	0	0	0.6113287622025213
+3/28/2019	U.S. safety officials review Ethiopian black box data: sources	-2.16	0	0	0.7177568574960056
+3/28/2019	U.S. lawsuit filed against Boeing over Ethiopian Airlines crash	-2.16	0	0	0.7012842010766117
+3/28/2019	Washington state reviewing WTO Boeing tax case ruling: statement	-2.16	0	0	0.8981328371746548
+3/28/2019	Futures muted with U.S.-China trade negotiations in focus	-2.16	0	1	-0.7979927428148372
+3/28/2019	David Jason: Planes, Trains and Automobiles, review - a cushty jaunt at vintage vehicles with a delightful guide	-2.16	0	1	-0.5730012059264238
+3/28/2019	Inside the training simulator for Boeing 737 Max 8 plane	-2.16	0	0	0.8913114393961348
+3/28/2019	Boeing And Airbus Don't Impress In February	-2.16	0	1	-0.7199782075425021
+3/28/2019	Airlines face lawsuits over 'toxic' cabin air	-2.16	0	0	0.7442785701429112
+3/28/2019	None	-2.16	0	1	-1.0
+3/28/2019	Boeing hit with lawsuit after 737 Max crash	-2.16	0	0	0.8482771139455871
+3/28/2019	Senators grill FAA on cozy relationship with Boeing	-2.16	0	1	-0.8450526766366319
+3/28/2019	WTO rules US failed to stop unfair tax breaks to Boeing	-2.16	0	0	0.8186074486023825
+3/28/2019	Five airlines face toxic cabin air claims in UK, union says	-2.16	0	1	-0.6144654558346109
+3/28/2019	FirstFT: Today’s top stories	-2.16	0	1	-0.9318579337183595
+3/28/2019	Buffett says Delta stake rose above 10% by mistake - Seeking Alpha	-2.16	0	1	-0.6074522432156917
+3/28/2019	Boeing Has Announced Software Fixes for Its Troubled 737 Max Aircraft	-2.16	0	1	-0.6697080851672255
+3/28/2019	Millennials keep pouring money into Boeing after the 737 Max turmoil (BA)	-2.16	0	0	0.8227722751946372
+3/28/2019	Millennials keep pouring money into Boeing after the 737 Max turmoil (BA)	-2.16	0	0	0.8227722751946372
+3/28/2019	5 things to know for March 28: Health care, Brexit, Boeing, Jayme Closs, EU car rules	-2.16	0	1	-0.4854963323130084
+3/28/2019	Aerion designing supersonic jet to run completely on biofuels: CEO	-2.16	0	1	-0.6367479113033682
+3/28/2019	Millennials keep pouring money into Boeing after the 737 Max turmoil (BA)	-2.16	0	0	0.8227722751946372
+3/28/2019	Grounded Boeing 737 Max also grounds FAA reputation	-2.16	0	0	0.8051608029024928
+3/28/2019	Boeing got unfair U.S. tax break, hurting Airbus, WTO says	-2.16	0	0	0.8382624270391292
+3/28/2019	First lawsuit filed in Boeing 737 MAX crash in Ethiopia	-2.16	0	0	0.6991123631930385
+3/28/2019	Danaher: Buy For Long-Term Total Return And 9% Three-Year CAGR	-2.16	0	1	-0.6875035894981715
+3/28/2019	Wall Street Breakfast: Yield Curve, Trade Talks, GDP	-2.16	0	1	-0.7880598820589352
+3/28/2019	'My heart broke into 100 pieces this morning': People who worked at Wow Air react to the airline's surprise announcement that it's shutting down	-2.16	0	1	-0.5189437489450233
+3/28/2019	Help Wanted: Trump administration riddled with vacancies	-2.16	0	1	-0.9243440146222166
+3/28/2019	Washington state reviewing WTO Boeing tax case ruling -statement	-2.16	0	0	0.8981328371746548
+3/28/2019	U.S. lawsuit filed against Boeing over Ethiopian Airlines crash	-2.16	0	0	0.7012842010766117
+3/28/2019	WTO says U.S. failed to withdraw state tax break for Boeing	-2.16	0	0	0.7709310346974927
+3/28/2019	UPDATE 1-Vietnam's Bamboo Airways to buy 50 Airbus A321neo planes - chairman	-2.16	0	1	-0.5028827203998459
+3/28/2019	PRESS DIGEST - Wall Street Journal - March 28	-2.16	0	1	-0.8661348090964779
+3/28/2019	Buffett says Apple content plan hard to predict, touts airline safety	-2.16	0	0	0.7191529398918498
+3/28/2019	PRESS DIGEST- New York Times business news - March 28	-2.16	0	1	-0.8055066619109801
+3/28/2019	News Daily: MPs reject eight Brexit options, and Facebook bans white nationalism	-2.16	0	1	-0.5904479857784687
+3/28/2019	Lawsuit filed against Boeing over crash in Ethiopia	-2.16	0	0	0.7340756420112131
+3/28/2019	Trade panel: Boeing got unfair US tax break, hurting Airbus	-2.16	0	0	0.8382624270391292
+3/28/2019	Buffett says issues with Boeing jet won't hold back aviation	-2.16	0	0	0.7670057098522485
+3/28/2019	Business Highlights	-2.16	0	1	-0.9393718528145023
+3/28/2019	How Does The Vanguard Industrial ETF Offering Compare To Competitors?	-2.16	0	1	-0.7048899775850088
+3/28/2019	FAA boss admits letting Boeing partly self-regulate the software thought to be behind both fatal 737 Max crashes	-2.16	0	1	-0.3852305400398238
+3/28/2019	Morning Bits: Trump is determined to sink his party	-2.16	0	1	-0.848688029244433
+3/28/2019	U.S. lawsuit filed against Boeing over Ethiopian Airlines crash	-2.16	0	0	0.7012842010766117
+3/28/2019	Washington state reviewing WTO Boeing tax case ruling: statement	-2.16	0	0	0.8981328371746548
+3/28/2019	Buffett says Apple content plan hard to predict, touts airline safety	-2.16	0	0	0.7191529398918498
+3/28/2019	Aerion designing supersonic jet to run completely on biofuels: CEO	-2.16	0	1	-0.6367479113033682
+3/28/2019	The Daily 202: A judge’s ruling against Medicaid work requirements shows the difficulty of scaling back entitlements	-2.16	0	1	-0.5686058450217274
+3/28/2019	SGL Carbon's (SGLFF) CEO Jurgen Kohler on Q4 2018 Results - Earnings Call Transcript	-2.16	0	1	-0.644261830399511
+3/28/2019	Warren Buffett: Boeing 737 Max problems 'aren't going to change the industry'	-2.16	0	0	0.7063326361569839
+3/28/2019	US lawsuit filed against Boeing over Ethiopian Airlines crash	-2.16	0	0	0.7012842010766117
+3/28/2019	It will take China more than 10 years to compete with Boeing, Airbus, says CEO of Dassault Systemes	-2.16	0	1	-0.5892315748304265
+3/28/2019	Danaher: Buy For Long-Term Total Return And 9% 3-Year CAGR	-2.16	0	1	-0.6875035894981715
+3/28/2019	Trade panel: Boeing got unfair US tax breaks, hurting Airbus	-2.16	0	0	0.8382624270391292
+3/28/2019	Lawsuit filed against Boeing over crash in Ethiopia	-2.16	0	0	0.7340756420112131
+3/28/2019	Boeing sued over Ethiopia crash as legal, political woes deepen	-2.16	0	0	0.7364204706715425
+3/28/2019	Buffett says issues with Boeing jet won't hold back aviation	-2.16	0	0	0.7670057098522485
+3/28/2019	FAA head on whether Boeing 737 Max 8 safety features should have been mandatory	-2.16	0	1	-0.7290594296394737
+3/28/2019	FAA to revamp oversight after deadly Boeing crashes	-2.16	0	0	0.7491344353646017
+3/28/2019	Eye Opener at 8: Senators grill FAA on Boeing relationship	-2.16	0	0	0.7833824553662291
+3/28/2019	Schoolboy, 10, meets up with Qantas CEO after sending him a letter asking how to run his airline	-2.16	0	1	-0.6831082285934751
+3/28/2019	Trade panel: Boeing got unfair US tax breaks, hurting Airbus	-2.16	0	0	0.8382624270391292
+3/28/2019	Buffett says Apple content plan hard to predict, touts airline safety	-2.16	0	0	0.7191529398918498
+3/28/2019	Buffett says Apple content plan hard to predict, touts airline safety	-2.16	0	0	0.7191529398918498
+4/3/2019	Boeing confirms delay of Starliner’s first test flight	-4.94	0	1	-0.7025314276904572
+4/3/2019	Senate panel opens probe of FAA inspectors over Boeing 737 MAX 8	-4.94	0	0	0.8902571447883401
+4/3/2019	First report on Boeing crash that killed 157 in Ethiopia due Thursday: source	-4.94	0	0	0.6506197829454152
+4/3/2019	Boeing's new MAX flight control system 'seems foolproof', Norwegian's CEO says	-4.94	0	0	0.7139344952790203
+4/3/2019	Pilots on the doomed Ethiopian Air 737 Max reportedly followed Boeing's emergency procedures, but still couldn't stop the plane from crashing	-4.94	0	0	0.34844102565655366
+4/3/2019	Ethiopian Airlines Pilots Followed Protocol During Boeing 737 MAX Crash: Source	-4.94	0	0	0.6658898565491663
+4/3/2019	Damaged sensor on Ethiopian Airlines 737 MAX triggered fatal crash: Sources	-4.94	0	0	0.6804996199611142
+4/3/2019	Singapore Airlines grounds two of its Boeing 787-10s because of engine issues	-4.94	0	1	-0.6590446797735845
+4/3/2019	Pilots of doomed Ethiopian Airlines 737 MAX jet followed Boeing procedures: report	-4.94	0	0	0.7164477131669661
+4/3/2019	Boeing Pushes Back Target Date to Fly Astronauts for NASA	-4.94	0	1	-0.6268754423126737
+4/3/2019	Boeing 737 Max Grounding Puts Parts Suppliers At Risk (Radio)	-4.94	0	0	0.8838289746274961
+4/3/2019	Family of Ralph Nader’s Niece, Killed in Crash, Plans to Sue Boeing	-4.94	0	0	0.8515631861895203
+4/3/2019	Even After a Trade Deal, Be Wary of China	-4.94	0	1	-0.688645728444681
+4/3/2019	Ethiopian air pilots followed Boeing emergency procedures but could not stop plane going down, report says	-4.94	0	0	0.5469638619594387
+4/3/2019	Factbox: What we know about Boeing 737 MAX crash and what comes next	-4.94	0	0	0.6218828575792114
+4/3/2019	FAA launches new review of Boeing 737 MAX to ensure safety	-4.94	0	0	0.8051608029024928
+4/3/2019	Norwegian Air CEO says had good meetings with Boeing	-4.94	0	0	0.8600739825646542
+4/3/2019	Ethiopian Airlines pilots initially followed Boeing procedures before crash: WSJ	-4.94	0	0	0.7293648465797627
+4/3/2019	Norwegian Air sells two planes as it puts profitability over growth	-4.94	0	1	-0.897223675833941
+4/3/2019	UAE to validate any Boeing MAX fix before lifting airspace ban: official	-4.94	0	0	0.6403604028329193
+4/3/2019	Boeing's new MAX flight control system 'seems foolproof', Norwegian's CEO says	-4.94	0	0	0.7139344952790203
+4/3/2019	Boeing software engaged repeatedly before crash: sources	-4.94	0	0	0.8047771771648985
+4/3/2019	Is this Emirates' new premium economy seat?	-4.94	0	1	-0.848688029244433
+4/3/2019	Pilots followed Boeing emergency procedures before deadly crash	-4.94	0	0	0.7013312501910723
+4/3/2019	What all fliers should know about the 737 MAX situation, even if they don't fly that plane - Fox News	-4.94	0	1	-0.4645218780254085
+4/3/2019	Pilots on doomed Boeing reportedly followed emergency procedures	-4.94	0	0	0.7904592418655999
+4/3/2019	Ethiopian Airlines Boeing 737 had sensor damaged by foreign object at takeoff	-4.94	0	0	0.5613434923527127
+4/3/2019	To smooth the potential awkwardness of reporting to more than one boss, master these 5 tricks, says the former CEO of Aetna	-4.94	0	1	-0.6367479113033682
+4/3/2019	A Boeing Breakthrough? - WSJ Podcasts - Wall Street Journal	-4.94	0	1	-0.8906529856298437
+4/3/2019	Whistleblower: employees in charge of certifying Boeing Max jets not properly trained	-4.94	0	1	-0.7393410148742767
+4/3/2019	The sensor believed to be at the heart of the Lion Air Boeing 737 Max disaster was reportedly repaired at a workshop in Florida before the crash (BA)	-4.94	0	0	0.31447267127187095
+4/3/2019	10 things you need to know before the opening bell (SPY, SPX, QQQ, DIA, BA, APRN, GME)	-4.94	0	1	-0.6217804648762898
+4/3/2019	Ethiopian Airlines pilots followed Boeing's emergency procedures before crash: report	-4.94	0	0	0.6767556832243645
+4/3/2019	Boeing boasted about streamlined approval for the 737 Max. Now it's cleaning up the mess	-4.94	0	1	-0.5940520997894418
+4/3/2019	This man was the only passenger on a Boeing 737 to Italy	-4.94	0	0	0.9389878533010247
+4/3/2019	New plane wing moves like a bird's and could radically change aircraft design	-4.94	0	1	-0.5805151250225666
+4/3/2019	Ethiopian Airlines pilots followed Boeing's emergency steps before 737 Max crash: report	-4.94	0	0	0.6433751520870998
+4/3/2019	Stocks set to rise | Caterpillar shares fall | US-China reportedly near trade deal	-4.94	0	1	-0.7298506765331967
+4/3/2019	Boeing Probes, Brexit Twist, Uber Lobbying: CEO Daily for April 3, 2019	-4.94	0	1	-0.615026554077042
+4/3/2019	Ethiopian Air pilots followed Boeing procedures before crash - WSJ	-4.94	0	0	0.721675859381628
+4/3/2019	Kenyan families of Ethiopian crash victims to sue	-4.94	0	0	0.837822750359171
+4/3/2019	Drone Delivery Canada Leaps Ahead Of Amazon Prime Air And Google Wing	-4.94	0	1	-0.5427623089467016
+4/3/2019	Ethiopian Airlines pilots reportedly followed Boeing's emergency steps before 737 Max crash	-4.94	0	0	0.6433751520870998
+4/3/2019	GM, Ford and Toyota join to advance self-driving testing, standards	-4.94	0	0	0.6491742915593428
+4/3/2019	Wall Street Breakfast: Stocks Advance As Trade Talks Resume	-4.94	0	1	-0.810601639347364
+4/3/2019	Boeing says successfully tested new 737 MAX software in CEO flight	-4.94	0	0	0.8208091847011314
+4/3/2019	Norwegian Air CEO says had good meetings with Boeing	-4.94	0	0	0.8600739825646542
+4/3/2019	UAE to validate any Boeing MAX fix before lifting airspace ban - official	-4.94	0	0	0.6403604028329193
+4/3/2019	UPDATE 1-Boeing's new 737 MAX flight control system 'seems foolproof' -Norwegian CEO	-4.94	0	0	0.6805539641417556
+4/3/2019	First report on Boeing crash that killed 157 in Ethiopia due Thursday -source	-4.94	0	0	0.6506197829454152
+4/3/2019	Boeing's new MAX flight control system 'seems foolproof', Norwegian's CEO says	-4.94	0	0	0.7139344952790203
+4/3/2019	PRESS DIGEST- New York Times business news - April 3	-4.94	0	1	-0.8249298610079622
+4/3/2019	PRESS DIGEST- Wall Street Journal - April 3	-4.94	0	1	-0.8855580081934599
+4/3/2019	GM, Ford and Toyota join to advance self-driving testing, standards	-4.94	0	0	0.6491742915593428
+4/3/2019	Report: Pilots in doomed plane followed emergency steps	-4.94	0	0	0.8180908574273104
+4/3/2019	Markets Right Now: US indexes hold on to moderate gains	-4.94	0	1	-0.9318579337183595
+4/3/2019	Business Highlights	-4.94	0	1	-0.9393718528145023
+4/3/2019	It's 'inevitable' that a self-driving car will kill someone. Here's why a VC thinks we should be investing in them anyway. (BA, GOOGL, TSLA)	-4.94	0	1	-0.6617086102515559
+4/3/2019	FAA forms joint task force with NASA, international aviation regulators to review Boeing 737 Max fix	-4.94	0	1	-0.6415545560260585
+4/3/2019	The Boeing 747 and the Airbus A330 are two of the most popular choices for Presidential jets. Here's how the world's leaders travel.	-4.94	0	1	-0.5124334505061334
+4/3/2019	Boeing software engaged repeatedly before crash - sources	-4.94	0	0	0.8047771771648985
+4/3/2019	Norwegian's CEO held 'good meetings' with Boeing regarding MAX	-4.94	0	0	0.9162211835014719
+4/3/2019	Ethiopian Airlines pilots initially followed Boeing procedures before crash - WSJ	-4.94	0	0	0.7293648465797627
+4/3/2019	Exclusive: Boeing software engaged repeatedly before crash - sources	-4.94	0	0	0.7305416299012638
+4/3/2019	UAE to validate any Boeing MAX fix before lifting airspace ban - official	-4.94	0	0	0.6403604028329193
+4/3/2019	GM, Ford and Toyota join to advance self-driving testing, standards	-4.94	0	0	0.6491742915593428
+4/3/2019	Wall Street rises on trade hopes, chip stocks at record highs	-4.94	0	0	0.8597447794406242
+4/3/2019	Ethiopian 737 pilots followed Boeing guidelines before crash	-4.94	0	0	0.7444425291811809
+4/3/2019	Ethiopian Airlines pilots reportedly followed Boeing's emergency procedures before crash	-4.94	0	0	0.6767556832243645
+4/3/2019	Ethiopia pilots followed Boeing procedures before crash: Sources	-4.94	0	0	0.7621562875143642
+4/3/2019	Report: Pilots in doomed plane followed emergency steps	-4.94	0	0	0.8180908574273104
+4/3/2019	WORLD NEWS ROUNDUP: 04/03	-4.94	0	1	-0.848688029244433
+4/3/2019	Faulty 737 sensor from Lion Air crash linked to Florida repair shop	-4.94	0	1	-0.6442466797418139
+4/3/2019	New info about moments before Ethiopian Airlines crash raises questions	-4.94	0	0	0.7500294264320542
+4/3/2019	Kenyan families of Ethiopian crash victims to sue	-4.94	0	0	0.837822750359171
+3/27/2019	Your Wednesday Briefing	2.32	1	0	-0.9313354060499403
+3/27/2019	Boeing introduces 737 Max software overhaul	2.32	1	0	-0.9389878533010247
+3/27/2019	Boeing's reputation on the line after crashes	2.32	1	0	-0.866529737827346
+3/27/2019	5 things you need to know today	2.32	1	1	1.0
+3/27/2019	'We are all humbled': Boeing CEO publishes contrite open letter, as 737 Max crash investigations zero in on software linked to nosedives that brought down 2 planes	2.32	1	0	-0.40359421918340194
+3/27/2019	The 30 highest-paying jobs in Washington state, where Amazon, Microsoft and Boeing have taken over	2.32	1	1	0.7587642139712587
+3/27/2019	The FAA’s Oversight of Boeing Will Be Examined in Senate Hearings	2.32	1	1	0.7844245294511342
+3/27/2019	Vice President Mike Pence Wants to Land Astronauts on the Moon Within Five Years	2.32	1	1	0.848688029244433
+3/27/2019	Boeing reveals proposed updates to 737 MAX amid scrutiny of automated safety system	2.32	1	0	-0.7784071258930684
+3/27/2019	'Start Here': Jussie Smollett's shocking deal, and a new battle over Obamacare	2.32	1	1	0.7999691620597743
+3/27/2019	Boeing working to ‘restore faith’ in industry	2.32	1	1	0.8906529856298437
+3/27/2019	Senators to press Trump officials on air safety following Boeing 737 Max 8 crashes abroad	2.32	1	1	0.6612509371790369
+3/27/2019	Senate holds hearing on the Boeing 737 Max 8	2.32	1	0	-0.9389878533010247
+3/27/2019	Barbara Bush, Trump talks to Hannity, $750M Powerball jackpot: 5 things to know Wednesday	2.32	1	1	0.7730320438666494
+3/27/2019	India becomes 4th country to use anti-satellite weapon in demonstration of its 'space power'	2.32	1	1	0.6217200731110822
+3/27/2019	Americans will return to moon by 2024 -- with or without NASA, Pence says	2.32	1	1	0.8030877202512211
+3/27/2019	US aims for humans on Moon in five years	2.32	1	1	0.8043645229644706
+3/27/2019	Senators Say Boeing Crashes Have Shaken Confidence in Aviation	2.32	1	1	0.7706734939720978
+3/27/2019	Boeing Readies 737 Max Software Update as Senate Probes Crashes	2.32	1	0	-0.8286511159649159
+3/27/2019	Boeing Says It Was Nearing Software Fix Before Second 737 Crash	2.32	1	0	-0.7971064409047239
+3/27/2019	Chao Defends FAA Amid Scrutiny of Agency and Ties to Boeing	2.32	1	1	0.5618519342224798
+3/27/2019	Sen. Jerry Moran on Boeing 737 Max and U.S. Trade Policy	2.32	1	0	-0.8855881970416748
+3/27/2019	Boeing, Cyclone Idai, McGregor: Your Wednesday Briefing	2.32	1	0	-0.8186074486023825
+3/27/2019	Brexit, Boeing, Baseball: Your Wednesday Evening Briefing	2.32	1	1	0.681131809348538
+3/27/2019	As Boeing Confronted a Swelling Crisis, It Had Little to Say	2.32	1	1	0.7737920521635444
+3/27/2019	India, Brexit, China: Your Thursday Briefing	2.32	1	1	0.8154395226668821
+3/27/2019	Live Briefing: Boeing and F.A.A. Hearings: Live Updates	2.32	1	0	-0.85030413422888
+3/27/2019	Boeing sees ‘no reason to overhaul’ its airplane development process as aviation industry converges on Renton, Wash. - The Washington Post	2.32	1	1	0.6419032805049594
+3/27/2019	Senator Ted Cruz explains Congress' inquiry into Boeing 737 Max crashes, certification process - CNBC	2.32	1	1	0.4958543571232296
+3/27/2019	United 'optimistic' on Boeing 737 MAX software update, wants oversight	2.32	1	0	-0.9389878533010247
+3/27/2019	Boeing unveils 737 MAX software fix after fatal crashes	2.32	1	0	-0.7099040439131334
+3/27/2019	Boeing confirms it will make safety feature standard on 737 MAX	2.32	1	0	-0.7918600437521018
+3/27/2019	U.S. FAA says it has not granted initial approval for Boeing 737 MAX anti-stall upgrade	2.32	1	0	-0.715347362473837
+3/27/2019	American Airlines pilots 'optimistic, but cautious' on 737 MAX fix	2.32	1	0	-0.6451961595613606
+3/27/2019	Southwest cuts forecast for revenue performance measure after 737 Max groundings	2.32	1	0	-0.7081664227392425
+3/27/2019	FAA tells U.S. Senate it would need 10,000 new employees, $1.8 billion to assume all certification	2.32	1	1	0.46365419155626736
+3/27/2019	How to guarantee your next flight is on an A380 superjumbo	2.32	1	1	0.7924552429636316
+3/27/2019	Boeing, initially defensive, now ‘humbled’ by 737 Max crisis - The Washington Post	2.32	1	1	0.7334547905441698
+3/27/2019	Boeing 737 MAX Lessons To Be Learned	2.32	1	0	-0.8799352157147028
+3/27/2019	Demystifying Aviation Economics	2.32	1	1	0.7924552429636316
+3/27/2019	Boeing should charge for safety	2.32	1	1	0.8463294793498812
+3/27/2019	Boeing has launched fixes for its 737 Max plane	2.32	1	0	-0.8170758921325001
+3/27/2019	How Boeing's 737 MAX Failed - The Wall Street Journal	2.32	1	0	-0.8621073853830713
+3/27/2019	FAA acting administrator grilled over 737 Max crashes	2.32	1	0	-0.7050751869278219
+3/27/2019	Congress seeks answers on Boeing 737 Max 8 - live updates	2.32	1	0	-0.777011043497224
+3/27/2019	Southwest sees $150 million revenue hit from grounded Boeing 737s	2.32	1	1	0.7567877947263216
+3/27/2019	System validating US aircraft is flawed, says senior government official	2.32	1	1	0.8562019483405758
+3/27/2019	Boeing announces planned software fix for 737 Max	2.32	1	1	0.7552969313009109
+3/27/2019	Boeing just unveiled how it's going to fix the 737 Max that was grounded after 2 fatal crashes in recent months	2.32	1	0	-0.7099040439131334
+3/27/2019	Southwest Airlines cuts its forecast after the grounding of Boeing's 737 Max (LUV)	2.32	1	0	-0.679753007343739
+3/27/2019	The FAA's acting administrator joked about United's infamous dragging incident in newly public emails (UAL)	2.32	1	1	0.5836336832140133
+3/27/2019	NASA says it's committed to Boeing-built rocket after considering alternatives	2.32	1	1	0.6074522432156917
+3/27/2019	Boeing prepares to brief pilots and regulators on 737 Max software fix during meeting	2.32	1	0	-0.6690308184109862
+3/27/2019	Boeing can regain public trust, but it's running out of time	2.32	1	0	-0.8200035309982269
+3/27/2019	Top Analyst Upgrades and Downgrades: American Water, Boeing, Carnival, Chipotle, Kinder Morgan, Palo Alto Networks, Ralph Lauren, Square and More	2.32	1	1	0.40742140527546594
+3/27/2019	Boeing to release a fix for 737 Max jets Wednesday. Here's everything we know	2.32	1	0	-0.7598504026512932
+3/27/2019	Here are the biggest analyst calls of the day: Boeing, Chipotle, Papa John's, Square & more	2.32	1	1	0.5349148160293548
+3/27/2019	Dow futures lower | 737 Max jet emergency lands | Economic optimism dips: CNBC survey	2.32	1	1	0.5132407452100671
+3/27/2019	Boeing, Lockheed lead government contract spending	2.32	1	1	0.8906529856298437
+3/27/2019	Southwest Airlines takes financial hit from Boeing 737 Max 8 grounding	2.32	1	0	-0.743401830013419
+3/27/2019	CNN10 - 3/28/19	2.32	1	1	0.7730320438666494
+3/27/2019	Citi resumes coverage of Boeing at Buy	2.32	1	0	-0.6892130226652193
+3/27/2019	Boeing, Capitol Hill shine spotlight on 737 MAX	2.32	1	0	-0.8717193417468092
+3/27/2019	Boeing jumps after unveiling 737 MAX fix, safety audits show no added concerns	2.32	1	1	0.5995895996406477
+3/27/2019	Three breakfast reads	2.32	1	1	0.9393718528145023
+3/27/2019	FAA says not yet granted initial OK for Boeing 737 MAX anti-stall upgrade	2.32	1	0	-0.7895829097374718
+3/27/2019	Stocks open slightly higher, Treasury yields tumble	2.32	1	1	1.0
+3/27/2019	Boeing will release a fix for 737 Max jets Wednesday. Here's everything we know	2.32	1	0	-0.7598504026512932
+3/27/2019	In wake of Boeing 737 Max crashes, FAA to improve air-safety oversight by this summer	2.32	1	0	-0.7146085862830346
+3/27/2019	Boeing unveils 737 Max fixes, says planes are safer	2.32	1	0	-0.7998623443629197
+3/27/2019	Southwest says 737 Max grounding is cutting into its profit margin	2.32	1	1	0.8840067530028418
+3/27/2019	As Trump and Xi chew over a trade deal, China buys 300 Airbus planes	2.32	1	1	0.4866384712595181
+3/27/2019	Wall Street Breakfast: Boeing, Capitol Hill Shine Spotlight On 737 MAX	2.32	1	0	-0.7996448520107248
+3/27/2019	The 15 best airports in the world: Ranked	2.32	1	1	0.7805459629627922
+3/27/2019	EXPLAINER-Boeing 737 MAX: What to expect at Capitol Hill, Boeing meetings	2.32	1	0	-0.6404577529843007
+3/27/2019	United 'optimistic' on Boeing 737 MAX software update, wants oversight	2.32	1	0	-0.9389878533010247
+3/27/2019	Boeing confirms it will make safety feature standard on 737 MAX	2.32	1	0	-0.7918600437521018
+3/27/2019	UPDATE 1-U.S. FAA says it has not granted initial approval for Boeing 737 MAX anti-stall upgrade	2.32	1	0	-0.715347362473837
+3/27/2019	U.S. transport chief: 'Questionable' why some Boeing safety features not required	2.32	1	1	0.8225109193482031
+3/27/2019	U.S. FAA says it has not granted initial approval for Boeing 737 MAX anti-stall upgrade	2.32	1	0	-0.715347362473837
+3/27/2019	UPDATE 1-Boeing to make safety feature standard on 737 MAX	2.32	1	0	-0.8687405116700553
+3/27/2019	American Airlines pilots 'optimistic, but cautious' on 737 MAX fix	2.32	1	0	-0.6451961595613606
+3/27/2019	PRESS DIGEST- Financial Times - March 27	2.32	1	1	0.7979927428148372
+3/27/2019	FAA tells U.S. Senate it would need 10,000 new employees, $1.8 bln to assume all certification	2.32	1	1	0.46365419155626736
+3/27/2019	US STOCKS-Wall St set to open flat as global growth fears persist	2.32	1	1	0.7318270957781338
+3/27/2019	US STOCKS-Futures edge lower as growth worries linger	2.32	1	1	0.7955738011550781
+3/27/2019	PRESS DIGEST - Wall Street Journal - March 27	2.32	1	1	0.8661348090964779
+3/27/2019	FAA to revamp aircraft construction oversight, official says	2.32	1	1	0.810601639347364
+3/27/2019	Boeing unveils software upgrade for 737 MAX	2.32	1	0	-0.8913114393961348
+3/27/2019	Boeing offers sympathies, unveils 737 MAX software fix	2.32	1	0	-0.8878171802601612
+3/27/2019	FAA to revamp aircraft construction oversight, official says	2.32	1	1	0.810601639347364
+3/27/2019	FAA, Boeing's 737 Max to face heat in Congress Wednesday as plane-maker outlines software fix	2.32	1	0	-0.6306315403757581
+3/27/2019	Stocks making the biggest moves premarket: Boeing, Southwest, Novartis, Apple, Amazon & more	2.32	1	0	-0.7491778795206169
+3/27/2019	The FAA is reportedly planning to rewrite the rules for airline safety, after scrutiny for letting Boeing partly regulate itself	2.32	1	0	-0.710820431750963
+3/27/2019	Boeing unveils 737 Max fixes, says planes are safer	2.32	1	0	-0.7998623443629197
+3/27/2019	Southwest trims first-quarter outlook after 737 Max groundings	2.32	1	0	-0.8461762224211191
+3/27/2019	FAA tells U.S. Senate it would need 10,000 new employees, $1.8 billion to assume all certification	2.32	1	1	0.46365419155626736
+3/27/2019	Boeing CEO writes open letter to Ethiopian Airlines	2.32	1	0	-0.8229810225847043
+3/27/2019	US airman relaxes in Strike Eagle fighter jet at it flies at 575mph just 500ft above ground	2.32	1	1	0.353547168889216
+3/27/2019	The Daily 202: Trump faces many obstacles if he’s serious about trying to make Republicans ‘the party of health care’	2.32	1	1	0.644261830399511
+3/29/2019	In Ethiopia Crash, Faulty Sensors on Boeing 737 Max Are Suspected	4.9	1	0	-0.6928439733956193
+3/29/2019	TUI sticks with Boeing, sees 737 MAXs flying by mid-July	4.9	1	1	0.8047154150172572
+3/29/2019	Investigators are close to confirming the lead theory about why the Ethiopian Airlines 737 Max crashed, report claims	4.9	1	1	0.4118501723508756
+3/29/2019	American Airlines suspends flights to Venezuela as the country grapples with growing political unrest	4.9	1	1	0.681131809348538
+3/29/2019	A U.S. Lawsuit Targets Boeing Over the Deadly Ethiopian Airlines Crash	4.9	1	0	-0.7699487950266714
+3/29/2019	Ride-Share Service Lyft Jumps 21% On First Day of Stock Trading	4.9	1	1	0.7924552429636316
+3/29/2019	Anti-Stall System Switched on Before Ethiopian Airlines Boeing 737 MAX Crash: Report	4.9	1	0	-0.7020391318828415
+3/29/2019	Anti-stall system was activated before Boeing 737 crash: Sources	4.9	1	0	-0.7374754934717617
+3/29/2019	WATCH: Software glitch indicated in Boeing crash: Report	4.9	1	0	-0.8467572080076513
+3/29/2019	Investigators believe Boeing anti-stall system was activated in Ethiopian crash: Report	4.9	1	0	-0.7102503089458473
+3/29/2019	The Wall Street Journal: Investigators says Boeing 737 MAX stall-prevention feature activated in Ethiopian crash	4.9	1	0	-0.7256399306193324
+3/29/2019	Boeing anti-stall system 'caused Ethiopia crash'	4.9	1	0	-0.7333106668795071
+3/29/2019	Boeing 737 Stall-Prevention System Reportedly Activated in Crash	4.9	1	0	-0.8406692194283865
+3/29/2019	Travel Giant TUI Says Boeing 737 Grounding to Cost $225 Million	4.9	1	0	-0.7075814744154584
+3/29/2019	No call for simulators in new Boeing 737 MAX training proposals	4.9	1	0	-0.8170758921325001
+3/29/2019	Factbox: Airlines set out cost after Boeing plane grounded	4.9	1	0	-0.7225982507073719
+3/29/2019	Regulators knew before crashes that 737 MAX trim control was confusing in some conditions: document	4.9	1	0	-0.5785376797477974
+3/29/2019	Anti-stall system active before Ethiopian 737 MAX crash: sources	4.9	1	0	-0.7012484932652814
+3/29/2019	737 grounding will cost Europe's biggest tour company at least $225 million	4.9	1	0	-0.5241322179401833
+3/29/2019	Tui warn over profits after 737 Max grounding	4.9	1	0	-0.9164235640520886
+3/29/2019	Boeing's Tentative Agreement With The FAA Could Move Its Stock Higher	4.9	1	1	0.7769106103549912
+3/29/2019	Ahead In April: Start Of Q1 Earnings, Jobs Report, Ongoing U.S-China Dispute	4.9	1	1	0.673617890252395
+3/29/2019	Boeing Ethiopia crash probe 'finds anti-stall device activated'	4.9	1	0	-0.5952165038476815
+3/29/2019	Tui travel firm warns Boeing grounding to hit profits	4.9	1	1	0.8906529856298437
+3/29/2019	The Morning Rundown: Today's top headlines	4.9	1	1	1.0
+3/29/2019	Black box data indicates anti-stall system a factor in deadly crash	4.9	1	0	-0.515265213147414
+3/29/2019	A warning on Tom Cotton and the China new cold war	4.9	1	1	0.7417599565340357
+3/29/2019	AstraZeneca leads FTSE fallers after share issue	4.9	1	1	0.7318270957781338
+3/29/2019	Stocks to watch: AstraZeneca, Tui, H&M, Auto Trader	4.9	1	1	0.8562019483405758
+3/29/2019	The Final Minutes of Ethiopian Airlines' Doomed Boeing 737 MAX - The Wall Street Journal	4.9	1	0	-0.6952099870493097
+3/29/2019	Automatic anti-stall system activated before Ethiopian Airlines crash: report	4.9	1	0	-0.6201511373681224
+3/29/2019	5 things to know for March 29: Boeing crash, Trump rally, Brexit, Venezuela, Facebook	4.9	1	0	-0.6575767352849112
+3/29/2019	Shanahan's efforts to reopen Niger probe surprise military officials	4.9	1	1	0.9243440146222166
+3/29/2019	Mysterious odor forces emergency landing of United flight	4.9	1	0	-0.8002630270956789
+3/29/2019	Ethiopian Airlines Crash Likely Due to Problematic Boeing 737 Max 8 Safety Feature, Say Investigators	4.9	1	0	-0.6647381745775274
+3/29/2019	Challenges Ahead for the Satellite Startup Industry	4.9	1	1	0.8118784420606135
+3/29/2019	Anti-stall system activated in Ethiopian crash - investigators	4.9	1	0	-0.8039015978032986
+3/29/2019	U.S. stocks waver, but hold onto gains	4.9	1	1	0.8562019483405758
+3/29/2019	Seattle, We Have A Problem - Initiating Coverage On The Boeing Company	4.9	1	0	-0.8186074486023825
+3/29/2019	Several United passengers had to be taken to the hospital after the plane made an emergency landing because of a strong odor in the cabin (UAL)	4.9	1	0	-0.6187264216055504
+3/29/2019	Wall Street Breakfast: Lyft Begins Trade After Pricing IPO At Top Of Range	4.9	1	1	0.7393410148742767
+3/29/2019	UPDATE 1-Sriwijaya Air cancels plan to lease 2 Boeing 737 MAX jets	4.9	1	0	-0.8025502886602288
+3/29/2019	Indonesia's Sriwijaya cancels plan to lease 2 Boeing 737 MAX jets	4.9	1	0	-0.8586974895970464
+3/29/2019	INSIGHT-Regulators knew before crashes that 737 MAX trim control was confusing in some conditions - document	4.9	1	0	-0.5785376797477974
+3/29/2019	INSIGHT-Regulators knew before crashes that 737 MAX trim control was confusing in some conditions - document	4.9	1	0	-0.5785376797477974
+3/29/2019	Investigators believe anti-stall system activated in Ethiopian crash - WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	UPDATE 1-Investigators believe anti-stall system activated in Ethiopian crash - WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	TUI sticks with Boeing, sees 737 MAXs flying by mid-July	4.9	1	1	0.8047154150172572
+3/29/2019	Anti-stall system active before Ethiopian 737 MAX crash -sources	4.9	1	0	-0.7012484932652814
+3/29/2019	Report: Anti-stall system was on before Ethiopian jet crash	4.9	1	0	-0.8115094923204995
+3/29/2019	Markets Right Now: Stocks up broadly; Lyft soars 8.7 percent	4.9	1	1	0.9243440146222166
+3/29/2019	Regulators knew before crashes that 737 MAX trim control was confusing in some conditions - document	4.9	1	0	-0.5785376797477974
+3/29/2019	Boeing anti-stall system fitted to Ethiopia Airlines jet 'WAS activated before crash'	4.9	1	0	-0.5768527490023305
+3/29/2019	BlackBerry Limited (BB) CEO John Chen on Q4 2019 Results - Earnings Call Transcript	4.9	1	1	0.5048591396447831
+3/29/2019	The Price Boeing Is Paying	4.9	1	0	-0.9723683844382894
+3/29/2019	The Barking Dow Dogs: IBM Tops Again By Yield, UnitedHealth Tops By Broker Targets For April	4.9	1	1	0.4418724425647338
+3/29/2019	Report: Anti-stall system was on before Ethiopian jet crash	4.9	1	0	-0.8115094923204995
+3/29/2019	Stocks making the biggest moves premarket: CarMax, BlackBerry, GM, Wells Fargo & more	4.9	1	1	0.6367479113033682
+3/29/2019	Odor in cabin diverts DC-area flight bound for San Francisco	4.9	1	1	0.44550779517253486
+3/29/2019	Travel giant TUI says Boeing 737 grounding to cost $225 million	4.9	1	0	-0.7075814744154584
+3/29/2019	Boeing 737 MAX stall-prevention system reportedly activated in Ethiopian crash	4.9	1	0	-0.7958872722503019
+3/29/2019	WSJ report: Anti-stall system activated before Ethiopian Airlines crash	4.9	1	0	-0.7052474792539695
+3/29/2019	Data Sheet—Why the Satellite Market Is Getting So Overcrowded	4.9	1	1	0.8562019483405758
+3/29/2019	Boeing Probe, Lyft IPO, Not-Brexit Day: CEO Daily for March 29, 2019	4.9	1	1	0.5274612886984192
+3/29/2019	Travel operator TUI issues profit warning over 737 grounding	4.9	1	0	-0.9666194688627352
+3/29/2019	Travel operator TUI issues profit warning over 737 grounding	4.9	1	0	-0.9666194688627352
+3/29/2019	Investigators believe anti-stall system activated in Ethiopian crash - WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	Anti-stall system active before Ethiopian 737 MAX crash - sources	4.9	1	0	-0.7012484932652814
+3/29/2019	Investigators believe anti-stall system activated in Ethiopian crash - WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	Investigators Believe Boeing 737 MAX Stall-Prevention Feature Activated in Ethiopian Crash	4.9	1	0	-0.6596202573235914
+3/29/2019	Trump declares 'Russia hoax' dead, rips Democrats and FBI at Michigan rally as he eyes 2020	4.9	1	1	0.36857500708150187
+3/29/2019	No call for simulators in new Boeing 737 MAX training proposals	4.9	1	0	-0.8170758921325001
+3/29/2019	Regulators knew before crashes that 737 MAX trim control was confusing in some conditions: document	4.9	1	0	-0.5785376797477974
+3/29/2019	Investigators believe anti-stall system activated in Ethiopian crash: WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	Investigators believe anti-stall system activated in Ethiopian crash: WSJ	4.9	1	0	-0.7378819245075577
+3/29/2019	Financial pressure mounts to fix Boeing's troubled jetliner	4.9	1	1	0.847471618296391
+3/29/2019	Boeing 737 MAX crash: Anti-stall system reportedly activated in Ethiopian Airlines tragedy	4.9	1	0	-0.6944312373656407
+3/29/2019	Investigators reportedly believe Boeing 737 Max anti-stall system activated before Ethiopia crash	4.9	1	0	-0.6110071001938547
+4/1/2019	Airline industry treats sexual assaults in the skies like an inconvenience, not a crime	5.74	1	1	0.7048899775850088
+4/1/2019	Boeing Software Fix for 737 Max Jets Needs More Time, the F.A.A. Says	5.74	1	0	-0.8401407663552714
+4/1/2019	Ethiopian Air Report on Boeing Plane Crash to Be Released Monday	5.74	1	0	-0.7718717641922744
+4/1/2019	U.S. FAA says it expects to receive Boeing software fix over the 'coming weeks'	5.74	1	1	0.7623373998761807
+4/1/2019	Norwegian Air CEO to visit Boeing, discuss MAX aircraft grounding	5.74	1	0	-0.7125151073064605
+4/1/2019	Ethiopian crash could be largest non-war aviation reinsurance claim: Willis Re	5.74	1	0	-0.6440858455270484
+4/1/2019	FAA: Boeing 737 MAX planes to stay grounded	5.74	1	0	-0.8902571447883401
+4/1/2019	Americans still don't trust self-driving cars, Reuters/Ipsos poll finds	5.74	1	1	0.6592896685917969
+4/1/2019	Ethiopia set to release report on fatal Boeing 737 Max crash	5.74	1	0	-0.7659498090379833
+4/1/2019	Sutherland, Parel head to Monday finish at Fallen Oak	5.74	1	1	0.7955738011550781
+4/1/2019	FirstFT: Today’s top stories	5.74	1	1	0.9318579337183595
+4/1/2019	Extent of Sackler family's role in opioid crisis revealed in damning lawsuits	5.74	1	1	0.709285338489705
+4/1/2019	Airlines retreat after easyJet Brexit warning	5.74	1	1	0.7516928172899378
+4/1/2019	For want of a quorum, America's jobs are being lost	5.74	1	1	0.7362224566828299
+4/1/2019	Boeing's fix for 737 MAX will take additional weeks	5.74	1	1	0.7552969313009109
+4/1/2019	Why Your Flight Could Be Delayed Today	5.74	1	1	0.7468549339704195
+4/1/2019	Boeing needs more time for fix - FAA	5.74	1	1	0.8256898693048572
+4/1/2019	Sutherland, Parel head to Monday finish at Fallen Oak	5.74	1	1	0.7955738011550781
+4/1/2019	The FAA expects Boeing to come up with new software to fix the grounded 737 MAX in a matter of weeks (BA)	5.74	1	1	0.6412491754426388
+4/1/2019	Boeing to submit final fix for its 737 Max to FAA in 'coming weeks'	5.74	1	1	0.6640963133144873
+4/1/2019	Boeing 737 MAX flights to remain banned in Saudi for near future - minister	5.74	1	1	0.690408086977457
+4/1/2019	Norwegian Air CEO to visit Boeing, discuss MAX aircraft grounding	5.74	1	0	-0.7125151073064605
+4/1/2019	Ethiopian crash could be largest non-war aviation reinsurance claim-Willis Re	5.74	1	0	-0.6440858455270484
+4/1/2019	UPDATE 1-Ethiopian crash could be largest non-war aviation reinsurance claim -Willis Re	5.74	1	0	-0.6440858455270484
+4/1/2019	PRESS DIGEST - Canada - April 1	5.74	1	1	0.8249298610079622
+4/1/2019	PRESS DIGEST - Wall Street Journal - April 1	5.74	1	1	0.8855580081934599
+4/1/2019	FAA: Boeing 737 Max upgrades expected within weeks – but 'time is needed' for a 'rigorous' review	5.74	1	0	-0.6902158774433875
+4/1/2019	Wall Street Breakfast: China Factory Rebound Propels Equities	5.74	1	1	0.7523924338216254
+4/1/2019	Boeing Needs More Time to Assess 737 Max Software Fix, FAA Says	5.74	1	1	0.7615340476838045
+4/1/2019	FAA expects Boeing update for troubled jet 'in coming weeks'	5.74	1	1	0.7687091800258141
+4/1/2019	Business Highlights	5.74	1	1	0.9393718528145023
+4/1/2019	Boeing to submit final 737 Max fix for FAA review in 'coming weeks'	5.74	1	1	0.6640963133144873
+4/1/2019	Dow set for gains | Kellogg nears deal with Ferrero | Bezos' phone data	5.74	1	1	0.5468240960301939
+4/1/2019	U.S. FAA says it expects to receive Boeing software fix over the 'coming weeks'	5.74	1	1	0.7623373998761807
+4/1/2019	Boeing 737 MAX flights to remain banned in Saudi for near future: minister	5.74	1	1	0.690408086977457
+4/1/2019	The Daily 202: Antitrust is all the rage. Monopolies and mergers emerge as major issues in the Democratic primaries.	5.74	1	1	0.48180058793999997
+4/1/2019	American States Water: Dividend King, Does That Make It A Buy?	5.74	1	1	0.7424595730657233
+4/1/2019	BC-GLF--PGA Tour Champions,1st Ld-Writethru	5.74	1	1	0.7574874112580092
+4/1/2019	BC-GLF--PGA Tour Champions,1st Ld-Writethru	5.74	1	1	0.7574874112580092
+4/1/2019	BC-GLF--PGA Tour Champions,1st Ld-Writethru	5.74	1	1	0.7574874112580092
+4/1/2019	Preliminary report due today on 737 MAX crash in Ethiopia	5.74	1	0	-0.7954085727048087
+4/1/2019	FAA expects Boeing update for troubled jet 'in coming weeks'	5.74	1	1	0.7687091800258141
+4/1/2019	Sutherland, Parel head to Monday finish at Fallen Oak	5.74	1	1	0.7955738011550781
+4/1/2019	My Dividend Growth Portfolio: Q1 2019 Summary	5.74	1	1	0.8756251474375579
+4/1/2019	The Best Dividend Stocks To Buy In April	5.74	1	1	0.7543688530665624
+4/1/2019	Ethiopia set to release preliminary report into cause of Boeing 737 MAX crash	5.74	1	1	0.7509015703962147
+4/1/2019	3 bodies found in plane crash that killed Russian tycoon	5.74	1	1	0.8118784420606135
+4/1/2019	Boeing 737 MAX flights to remain banned in Saudi for near future: minister	5.74	1	1	0.690408086977457
+4/1/2019	U.S. FAA says it expects to receive Boeing software fix over 'coming weeks'	5.74	1	1	0.7623373998761807
+4/1/2019	U.S. FAA says it expects to receive Boeing software fix over 'coming weeks'	5.74	1	1	0.7623373998761807
+4/1/2019	Ethiopia set to release preliminary report into cause of Boeing 737 MAX crash	5.74	1	1	0.7509015703962147
+4/1/2019	Ethiopia set to release preliminary report into cause of Boeing 737 MAX crash	5.74	1	1	0.7509015703962147
+4/1/2019	PRESS DIGEST - Wall Street Journal - April 1	5.74	1	1	0.8855580081934599
+4/1/2019	Americans still don't trust self-driving cars, Reuters/Ipsos poll finds	5.74	1	1	0.6592896685917969
+4/2/2019	Boeing Fix for 737 Max Software Is Delayed	2.25	1	1	0.7628108503970539
+4/2/2019	Boeing is ramping up inspections after the US Air Force rejected its new KC-46 tanker planes again (BA)	2.25	1	1	0.6291111633772822
+4/2/2019	10 things you need to know before the opening bell (SPY, SPX, QQQ, DIA, LYFT, BA)	2.25	1	1	0.6974364502540733
+4/2/2019	Boeing Whistle-Blower Claims to Be Investigated by Senate Committee	2.25	1	1	0.6799153984004959
+4/2/2019	Between Two Boeing Crashes, Days of Silence and Mistrust	2.25	1	1	0.7144407076912964
+4/2/2019	Between Two Deadly Crashes, Boeing Moved Haltingly to Make 737 MAX Fixes - The Wall Street Journal	2.25	1	1	0.6621941660710826
+4/2/2019	Man gets whole plane to himself on flight to Italy - Fox News	2.25	1	1	0.8218113028165155
+4/2/2019	Lithuanian man gets rare experience of flying alone on commercial flight to Italy - Fox News	2.25	1	1	0.5567569567860957
+4/2/2019	letter: Fallback for Airline Pilots	2.25	1	1	0.8193923611567563
+4/2/2019	Singapore Airlines grounds two 787-10s citing Rolls-Royce engine problem	2.25	1	1	0.7046449887667964
+4/2/2019	Exclusive: Airbus China order padded by old or incomplete deals - sources	2.25	1	1	0.7215628689038335
+4/2/2019	U.S. core capital goods orders slip in February, shipments unchanged	2.25	1	1	0.8087598838691668
+4/2/2019	Asian shares rise to seven-month high on U.S., China manufacturing rebound	2.25	1	1	0.8947429659511201
+4/2/2019	What a stand-up airplane seat feels like	2.25	1	1	0.868111228341415
+4/2/2019	Daimler CEO: Boeing safety debate highlights challenge for autonomous tech	2.25	1	1	0.6188447288001763
+4/2/2019	Boeing's Changed Trajectory (Podcast)	2.25	1	1	0.8981669047259867
+4/2/2019	Changes Should Send Boeing 737 MAX Back To The Skies	2.25	1	1	0.7896875768249715
+4/2/2019	Tracking How Far They Fell: March 2019 Edition	2.25	1	1	0.7318270957781338
+4/2/2019	Market Pulse Signal: Trend Turns Positive As Concerns Persist	2.25	1	1	0.8787437056290047
+4/2/2019	These two tech glitches grounded planes nationwide. How worried should we be? - The Washington Post	2.25	1	1	0.8712297865328618
+4/2/2019	FirstFT: Today’s top stories	2.25	1	1	0.9318579337183595
+4/2/2019	Stocks to watch: Rolls-Royce, AstraZeneca, Diageo, Fevertree	2.25	1	1	0.7955738011550781
+4/2/2019	Stocks making the biggest moves premarket: Boeing, Wells Fargo, Lyft, Nio, Disney & more	2.25	1	1	0.7618827721627054
+4/2/2019	Luckiest traveler ever? Man gets entire 188-passenger airplane to himself on flight to Italy	2.25	1	1	0.626175825780986
+4/2/2019	Senate investigating whistleblowers' claims that government safety inspectors who approved Boeing's 737 Max plane lacked sufficient training (BA)	2.25	1	1	0.7533205120559738
+4/2/2019	Tesla sales; Walgreens earnings; Boeing delay	2.25	1	1	0.830024838444346
+4/2/2019	US Air Force again halts delivery of Boeing refueling plane over debris found onboard	2.25	1	1	0.6160597444299334
+4/2/2019	Singapore Airlines Grounds Two Boeing Planes for Engine Issue - Bloomberg	2.25	1	1	0.737424987394547
+4/2/2019	10 things you need to know before the opening bell (SPY, SPX, QQQ, DIA, LYFT, BA)	2.25	1	1	0.6974364502540733
+4/2/2019	Whistleblowers claims on aviation safety, certification eyed by Senate panel	2.25	1	1	0.7124642884463591
+4/2/2019	More Trent engine issues for Rolls-Royce	2.25	1	1	0.897467288194299
+4/2/2019	Whistleblower claims on aviation safety, certification eyed by Senate panel	2.25	1	1	0.7124642884463591
+4/2/2019	Air Force again halts Boeing KC-46 deliveries over debris problem	2.25	1	1	0.6191783026213802
+4/2/2019	PE-backed ACS recruits Moran as chief HR officer	2.25	1	1	0.7424595730657233
+4/2/2019	U.S. Air Force again halts deliveries of Boeing KC-46 tanker aircraft	2.25	1	1	0.6116643835252372
+4/2/2019	Brazil's Gol will not cancel Boeing 737 MAX orders -report	2.25	1	1	0.7984782986343638
+4/2/2019	Senate panel reviewing whistleblower claims on aviation safety - panel chair Wicker	2.25	1	1	0.832443780104105
+4/2/2019	Air Canada removes Boeing's 737 MAX from schedule until July	2.25	1	1	0.757472260600312
+4/2/2019	UPDATE 1-Brazil's Gol will not cancel Boeing 737 MAX orders -newspaper	2.25	1	1	0.7984782986343638
+4/2/2019	Singapore Airlines grounds two 787-10s after inspections of Rolls-Royce Trent 1000 TEN engines	2.25	1	1	0.638479341730093
+4/2/2019	PRESS DIGEST- Financial Times - April 2	2.25	1	1	0.8174159419118192
+4/2/2019	UPDATE 1-Delta Air Lines expects first-quarter profit above Wall Street estimates	2.25	1	1	0.6319986129868417
+4/2/2019	Embraer in 'advanced' talks to sell military plane to Portugal -executive	2.25	1	1	0.7955738011550781
+4/2/2019	PRESS DIGEST- New York Times business news - April 2	2.25	1	1	0.8249298610079622
+4/2/2019	PRESS DIGEST - Wall Street Journal - April 2	2.25	1	1	0.8855580081934599
+4/2/2019	UPDATE 1-European stocks' rally stalls, Brexit impasse weighs	2.25	1	1	0.8780440890973169
+4/2/2019	GLOBAL MARKETS-Manufacturing rebound lifts Asian shares to 7-month highs	2.25	1	1	0.8816915470037716
+4/2/2019	WRAPUP 2-U.S. manufacturing sector stabilizing, challenges remain	2.25	1	1	0.9318579337183595
+4/2/2019	EMERGING MARKETS-Latam stocks' winning streak ends as some investors cash out	2.25	1	1	0.7424595730657233
+4/2/2019	Boeing, FAA say more time needed for fix of troubled 737 Max	2.25	1	0	-0.7914100578425869
+4/2/2019	Singapore carrier grounds 2 Boeing 787-10 jets after checks	2.25	1	1	0.6780253564557447
+4/2/2019	Senate committee to investigate FAA safety inspectors	2.25	1	1	0.8961904854810494
+4/2/2019	Business Highlights	2.25	1	1	0.9393718528145023
+4/2/2019	Technical Tuesday - Are We Moving Up To A New Range?	2.25	1	0	-0.9351100383255297
+4/2/2019	Senate panel probes whistleblower claims of poor FAA training on Boeing 737 Max approval process	2.25	1	1	0.7615340476838045
+4/2/2019	US core capital goods, durable goods orders drop in February	2.25	1	1	0.6724757513058855
+4/2/2019	Stocks under pressure | Lyft tumbles | Whole Foods to slash prices	2.25	1	1	0.9318579337183595
+4/2/2019	Passenger gets ENTIRE 188-seater Boeing 737 to himself for flight from Lithuania to Italy	2.25	1	1	0.5815035950221226
+4/2/2019	Exclusive: Airbus China order padded by old or incomplete deals - sources	2.25	1	1	0.7215628689038335
+4/2/2019	Delta's upbeat first-quarter profit estimate lifts shares	2.25	1	1	0.8043645229644706
+4/2/2019	Global Markets: Manufacturing rebound lifts Asian shares to seven-month highs	2.25	1	1	0.8816915470037716
+4/2/2019	Asian shares rise to seven-month high on U.S., China manufacturing rebound	2.25	1	1	0.8947429659511201
+4/2/2019	Boeing and FAA regulators say that more time is needed to fix the troubled 737 Max airliners	2.25	1	1	0.7053012614030029
+4/2/2019	Singapore Airlines grounds two 787-10s citing Rolls-Royce engine problem	2.25	1	1	0.7046449887667964
+4/2/2019	Boeing: Buy The Fear	2.25	1	1	0.837538757540489
+4/2/2019	Rose Portfolio March Madness Upward Soaring Dividends Of 32.9% Y/Y And Q1 Report	2.25	1	1	0.8162738029653097
+4/2/2019	Singapore carrier grounds 2 Boeing 787-10 jets after checks	2.25	1	1	0.6780253564557447
+4/2/2019	Senate committee to investigate FAA safety inspectors	2.25	1	1	0.8961904854810494
+4/2/2019	Crisis Talks Held Over Brexit Deadlock (Wall Street Breakfast Podcast)	2.25	1	1	0.7536692365348748
+4/2/2019	Senate investigates claims FAA inspectors who approved Boeing Max not properly trained	2.25	1	1	0.8062666702078752
+4/2/2019	Wall Street Breakfast: Crisis Talks Held Over Brexit Deadlock	2.25	1	1	0.7536692365348748
+4/2/2019	Lithuanian man flies alone on huge plane to Italy	2.25	1	1	0.8756251474375579
+4/2/2019	U.S. Air Force again halts delivery of Boeing’s tanker over debris	2.25	1	1	0.679806449806878
+4/2/2019	Senate committee opens 737 MAX probe over whistle-blower complaints about FAA inspectors’ training	2.25	1	1	0.6558223859214493
+4/2/2019	Rose Portfolio March Madness Upward Soaring Dividends Of 32.9% Y/Y And Q1 Report	2.25	1	1	0.8162738029653097
+4/2/2019	Scientist use bacteria to make spider silk for ultra-strong materials that could be sent to space	2.25	1	1	0.7587642139712587
+4/2/2019	Jetstar flight suffers mid-air problems when BOTH engines accelerated moments before landing	2.25	1	1	0.633446132516771
+4/2/2019	Singapore carrier grounds 2 Boeing 787-10 jets after checks	2.25	1	1	0.6780253564557447
+4/2/2019	Lithuanian man flies alone on huge plane to Italy	2.25	1	1	0.8756251474375579
+4/2/2019	U.S. launches probe of FAA's training of Boeing 737 Max inspectors	2.25	1	0	-0.8902571447883401
+4/2/2019	Daimler CEO: Boeing safety debate highlights challenge for autonomous tech	2.25	1	1	0.6188447288001763
+4/2/2019	Daimler CEO: Boeing safety debate highlights challenge for autonomous tech	2.25	1	1	0.6188447288001763
+4/2/2019	U.S. Senate panel reviewing whistleblower claims on aviation safety: panel chair	2.25	1	1	0.832443780104105
+4/2/2019	U.S. Senate panel reviewing whistleblower claims on aviation safety: panel chair	2.25	1	1	0.832443780104105
+4/2/2019	Air Canada removes Boeing's 737 MAX from schedule until July	2.25	1	1	0.757472260600312
+4/2/2019	Air Canada removes Boeing's 737 MAX from schedule until July	2.25	1	1	0.757472260600312
+4/2/2019	Boeing to submit 737 MAX software upgrade 'in the coming weeks'	2.25	1	1	0.8728574812988978
+4/2/2019	EXCLUSIVE-China's huge Airbus order padded by old or incomplete deals -sources	2.25	1	1	0.7215628689038335
+4/2/2019	Exclusive: Airbus China order padded by old or incomplete deals - sources	2.25	1	1	0.7215628689038335
+4/2/2019	FTSE 100 enjoys four-day winning streak as oil companies gain	2.25	1	1	0.47428666884385706
+4/2/2019	UPDATE 1-London's main share index up as Brexit drag on pound benefits exporters	2.25	1	1	0.6842503675399846
+4/2/2019	European stocks hit six-month high as automakers, insurers gain	2.25	1	1	0.7512502948751157
+4/2/2019	Asian shares rise to seven-month high on U.S., China manufacturing rebound	2.25	1	1	0.8947429659511201
+4/2/2019	Asian shares rise to seven-month high on U.S., China manufacturing rebound	2.25	1	1	0.8947429659511201
+4/2/2019	Boeing Needs More Time for 737 Max Fix	2.25	1	0	-0.8401407663552714
